@@ -1,8 +1,7 @@
 package com.trinitarias.grupo2.repository;
 
-
+import com.trinitarias.grupo2.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
-public interface UsuarioRepository extends JpaRepository<Usuario, Long>{
 
+public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
 }
