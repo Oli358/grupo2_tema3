@@ -52,8 +52,7 @@ proyecto obtiene la misma base a partir del código y de `data.sql`.
 
 ## Endpoints
 
-Esta sección la completará Manu con las peticiones de Bruno y las capturas de
-pantalla.
+Esta sección la completará Manu con las peticiones de Bruno
 
 | Método | Ruta | Descripción |
 |---|---|---|
